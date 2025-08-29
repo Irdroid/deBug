@@ -1,4 +1,4 @@
-## deBug - CH55x printf style debugging Adapter and C library for WCH CH551, CH552, CH554 microcontrollers
+## printf style debugging Adapter and C library for WCH CH551, CH552, CH554 microcontrollers
 
 The WCH CH55x series of MCUs are 8bit 89C51 core microcontrollers well equipped with peripherals such as UART modules, PWM modules, general purpose timers, touch modules and SPI modules . Those MCUs lack debug unit, such as JTAG or SWD, thus debugging is only possible with printf style serial debugging.
 
