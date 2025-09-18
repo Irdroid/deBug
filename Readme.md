@@ -51,6 +51,8 @@ deBug in style with our serial debugging adapter, the adapter shape says it all 
 - USB Type-C connection to the host PC
 - Standard virtual serial port enumeration on the host PC
 
-The serial debugging adapter comes with clamps, USB-C connection to the Host computer and a wrist keychain strap. The adapter is manufactured by Hardware Group Ltd. and can be purchased from the link below, or from Tindie:
+The serial debugging adapter comes with clamps, USB-C connection to the Host computer and a wrist keychain strap. The adapter is manufactured by Hardware Group Ltd. and can be purchased from from Tindie:
+
+[Purchase - deBug adapter for CH55x MCUs](https://www.tindie.com/products/irdroid/debug-printf-style-debugging-adapter-for-ch55x/)
 
 
