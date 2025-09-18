@@ -43,6 +43,7 @@ PRINTF("variable %u", var);
 - In addition to the printf, there is a interface via the deBugSendByte(uint8_t Data) function, which can be used to send bytes to UART0.
 
 ### Hardware
+![deBug adapter for CH55x MCUs](https://raw.githubusercontent.com/Irdroid/deBug/refs/heads/main/Hardware/Pictures/deBug4.jpg)
 
 deBug in style with our serial debugging adapter, the adapter shape says it all :) . You are too good and you are coding with no bugs? No problem, grab our adapter and use it as amulet! No bug will dare to enter you code :) 
 
