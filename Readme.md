@@ -1,5 +1,6 @@
 ## printf style debugging Adapter and C library for WCH CH551, CH552, CH554 microcontrollers
 ![deBug kit](https://raw.githubusercontent.com/Irdroid/deBug/refs/heads/main/Hardware/Pictures/deBug1.jpg)
+
 The WCH CH55x series of MCUs are 8bit 89C51 core microcontrollers well equipped with peripherals such as UART modules, PWM modules, general purpose timers, touch modules and SPI modules . Those MCUs lack debug unit, such as JTAG or SWD, thus debugging is only possible with printf style serial debugging.
 
 **deBug** is a Project that was started in 2025 with the aim to provide an easy to use hardware and software tools, that features printf style debugging for the CH55x series of MCUs.
